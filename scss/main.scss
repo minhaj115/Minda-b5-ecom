@@ -1,7 +1,10 @@
+// Customize Bootstrap
 $theme-colors: (
   "primary": #f55555,
   
 );
 
-
+// Import Bootstrap from node_modules
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+// All Custom Code
